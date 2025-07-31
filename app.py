@@ -9,5 +9,4 @@ def mul(a,b):
 
 def div(a,b):
     return a/b
-    
 print("Changes made on f3")
